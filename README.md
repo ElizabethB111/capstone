@@ -1,5 +1,6 @@
 # capstone
 Capstone Project for MS in Data Science on Math &amp; Literacy Growth in Mindsets! Program
+Presentation included here. Notebooks not included due to private data. 
 
 # Math & Literacy Growth in the Mindsets!® Math Program
 
@@ -25,7 +26,6 @@ The analysis focused on two Standards for Mathematical Practice:
 * **SMP8: Look for and express regularity in repeated reasoning**
   Students recognize repeated calculations or structures and use those patterns to develop more general mathematical strategies.
 
-Although these practices are related, SMP2 emphasizes interpreting quantities and context, while SMP8 emphasizes identifying and generalizing patterns.
 
 ## Research Questions
 
