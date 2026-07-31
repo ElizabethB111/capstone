@@ -234,12 +234,6 @@ Special thanks to:
 * My cohort peers
 * My family
 
-## License
-
-The code and documentation are governed by the license included in this repository.
-
-The project license does not grant permission to redistribute any student-level, proprietary, confidential, or otherwise restricted data used in the analysis.
-
 ## Disclaimer
 
-Mindsets!® is the property of its respective owner. This independent academic analysis does not imply endorsement of every interpretation, conclusion, or methodological decision presented in this repository.
+Mindsets!® is the property of its respective owner. This independent academic analysis does not imply endorsement of every interpretation, conclusion, or methodological decision presented in this repository. See website https://mindsets.com
